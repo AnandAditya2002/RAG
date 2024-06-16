@@ -4,7 +4,7 @@
 Retrieval-Augmented Generation (RAG) is an AI technique that combines retrieving relevant information from a large dataset and using a text generation model to produce accurate and contextually relevant responses. This approach enhances the quality of generated text by leveraging a wide array of sources and sophisticated language models, making it useful for tasks like question answering and summarization.
 
 
-## Table of Contents 
+## 🚀Table of Contents 
 
 - Overview
 - Features
@@ -18,19 +18,19 @@ Retrieval-Augmented Generation (RAG) is an AI technique that combines retrieving
 
 
 
-##  Overview
+## 📖Overview
  RAG(Retrieval Augmented Generation) is a project that implements a chatting interface
  capable of answering questions based on a **Restaurant's Q/A PDF**, **Parivahan's O/A PDF**, **Election Commision's Q/A PDF**. It utilizes LangFlow to
  integrate Azure OpenAI embeddings and handles keys and tokens, while AstraDB is used for
  storing vectorized words and sentences.
 
-## Features
+## 📖Features
 - **ChatInterface:** Interactive chat interface to answer queries based on the FAQ PDF.
 - **Integration with Azure OpenAI:**  Uses Azure OpenAI embeddings for accurate answer retrieval.
 - **Vector Storage:** AstraDB is used to store vectorized representations of words and sentences.
 - **EnhancedRetrieval:**  Combines retrieval and generation for accurate and relevant answers.
 
-##  Installation
+##  🧵Installation
 To get started with this project, follow the steps below:
 
 - **Prerequisites**
@@ -57,19 +57,19 @@ To get started with this project, follow the steps below:
            - bash
            - Copy code : python app.py  
 
-## Usage
+## 🔰Usage
  After installation, run the application as described above. Open your browser and navigate to
  the specified URL (usually http://localhost:5000). You will be greeted with a chat
  interface where you can start asking questions based on the restaurant's Q/A PDF, Parivahan's Q/A PDF, Election Commision's Q/A
 
 
 
-## Screenshots
+## 📌Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-## Results and Metrics
+## 📌Results and Metrics
 
  Here are some key metrics showing the improvements made:
  - **ResponseAccuracy:** Improved by X% after implementing Azure OpenAI embeddings.
@@ -77,7 +77,7 @@ To get started with this project, follow the steps below:
  - **UserSatisfaction:** Increased user satisfaction by X% based on feedback.
 
 
-## Contributing
+## 🙌Contributing
 We welcome contributions! Please follow these steps to 
 contribute:
 -  Fork the repository.
@@ -85,8 +85,8 @@ contribute:
 - Make your changes.
 - Submit a pull request.
 
-##  License
+##  ✅License
 This project is licensed under the MIT License- see the LICENSE file for details.
 
-##  Contact
+##  📧Contact
 For any questions or issues, please open an issue on GitHub or contact (anandaditya189@gmail.com)
