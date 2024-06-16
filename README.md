@@ -69,7 +69,7 @@ To get started with this project, follow the steps below:
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-## 📌Results and Metrics
+## 📌Results
 
  Here are some key metrics showing the improvements made:
  - **ResponseAccuracy:** Improved by X% after implementing Azure OpenAI embeddings.
