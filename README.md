@@ -66,7 +66,16 @@ To get started with this project, follow the steps below:
 
 ## 📌Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Restaurant QnA Output :
+      ![Screenshot 2024-06-14 150930](https://github.com/AnandAditya2002/RAG/assets/96615239/1f01e561-c4ea-4640-846b-d40575831d69)
+      ![Screenshot 2024-06-14 160100](https://github.com/AnandAditya2002/RAG/assets/96615239/f85bc5a0-970c-4ac7-b496-a57b14233700)
+
+Parivahan QnA Output :
+      ![Screenshot 2024-06-14 160340](https://github.com/AnandAditya2002/RAG/assets/96615239/4efab908-556e-4c12-a360-08ee01084d17)
+      ![Screenshot 2024-06-14 161441](https://github.com/AnandAditya2002/RAG/assets/96615239/abc868b9-c96e-426c-99d7-8837bbf0fdb4)
+
+
+
 
 
 ## 📌Results
