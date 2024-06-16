@@ -33,29 +33,29 @@ Retrieval-Augmented Generation (RAG) is an AI technique that combines retrieving
 ##  Installation
 To get started with this project, follow the steps below:
 
-- **Prerequisites** 
+- **Prerequisites**
     - Python 3.7+
     - AzureOpenAI API key
     - AstraDB credentials
     - Necessary Python libraries (listed in requirements.txt)
-- **Steps** 
-     1. **Clone the Repository** 
-    - bash
-    - Copy code : git clone https://github.com/taakasj/RAG.git cd RAG
-    2. **Install Dependencies**
-    -  bash
-    - Copy code :  pip install-r requirements.txt
-    3. **Set Up Environment Variables**  
-    -  Create a .env file in the root directory and add your Azure OpenAI API key and AstraDB credentials.
-    -  bash
-    - Copy code :
-        - AZURE_OPENAI_API_KEY=your_api_key
-        - ASTRA_DB_API_KEY=your_astra_db_api_key
-        - ASTRA_DB_ENDPOINT=your_astra_db_endpoint
-        - ASTRA_DB_APPLICATION_TOKEN=your_astra_db_application_token
-   4. **Run the Application**   
-    -  bash
-    - Copy code : python app.py  
+- **Steps**
+     1. **Clone the Repository**
+         - bash
+         - Copy code : git clone https://github.com/taakasj/RAG.git cd RAG
+     2. **Install Dependencies**
+         -  bash
+         - Copy code :  pip install-r requirements.txt
+     3. **Set Up Environment Variables**
+         -  Create a .env file in the root directory and add your Azure OpenAI API key and AstraDB credentials.
+         -  bash
+         -  Copy code :
+            - AZURE_OPENAI_API_KEY=your_api_key
+            - ASTRA_DB_API_KEY=your_astra_db_api_key
+            - ASTRA_DB_ENDPOINT=your_astra_db_endpoint
+            - ASTRA_DB_APPLICATION_TOKEN=your_astra_db_application_token
+     4. **Run the Application**
+           - bash
+           - Copy code : python app.py  
 
 ## Usage
  After installation, run the application as described above. Open your browser and navigate to
