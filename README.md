@@ -84,6 +84,10 @@ Parivahan QnA Output :
  - **ResponseAccuracy:** Improved by X% after implementing Azure OpenAI embeddings.
  - **Latency Reduction:**  Reduced response time by X% using optimized vector storage in AstraDB.
  - **UserSatisfaction:** Increased user satisfaction by X% based on feedback.
+   
+   ![Capture](https://github.com/AnandAditya2002/RAG/assets/96615239/ad40c276-86be-4f51-9648-f39dfc82c0ca)
+
+
 
 
 ## 🙌Contributing
