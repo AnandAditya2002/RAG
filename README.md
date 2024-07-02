@@ -81,9 +81,9 @@ Parivahan QnA Output :
 ## 📌Results
 
  Here are some key metrics showing the improvements made:
- - **ResponseAccuracy:** Improved by X% after implementing Azure OpenAI embeddings.
- - **Latency Reduction:**  Reduced response time by X% using optimized vector storage in AstraDB.
- - **UserSatisfaction:** Increased user satisfaction by X% based on feedback.
+ - There is a **7.33 times** increase in perfect responses when using RAG, demonstrating a substantial improvement in answer quality. This suggests that RAG is highly effective in providing accurate and complete answers.
+ - A decrease in neutral responses suggests that RAG provides more definitive and relevant answers. This suggests that RAG is more likely to provide answers that are either positively relevant or completely accurate rather than neutral or vague.
+ - A decrease in irrelevant responses shows that RAG is effective in filtering out irrelevant information, thus enhancing the overall quality of the responses.
    
    ![Capture](https://github.com/AnandAditya2002/RAG/assets/96615239/ad40c276-86be-4f51-9648-f39dfc82c0ca)
 
