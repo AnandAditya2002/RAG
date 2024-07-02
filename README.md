@@ -13,7 +13,6 @@ Retrieval-Augmented Generation (RAG) is an AI technique that combines retrieving
 - Screenshots
 - Results and Metrics
 - Contributing
-- License
 - Contact
 
 
@@ -97,9 +96,6 @@ contribute:
 - Create a new branch.
 - Make your changes.
 - Submit a pull request.
-
-##  ✅License
-This project is licensed under the MIT License- see the LICENSE file for details.
 
 ##  📧Contact
 For any questions or issues, please open an issue on GitHub or contact (anandaditya189@gmail.com)
